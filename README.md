@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kertus100
+- 👋 Hi
 - 👀 I’m interested in how this stuff works
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... you dont.
 
 <!---
 Kertus100/Kertus100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
